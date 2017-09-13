@@ -21,3 +21,5 @@
 /Users/demetriusabreu/Documents/_MARCOS/Unity/2.5 Game a.09/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/demetriusabreu/Documents/_MARCOS/Unity/2.5 Game a.09/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/demetriusabreu/Documents/_MARCOS/Unity/2.5 Game a.09/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/demetriusabreu/Documents/_MARCOS/Unity/2.5 Game a.09/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/demetriusabreu/Documents/_MARCOS/Unity/2.5 Game a.09/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
